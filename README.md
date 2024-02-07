@@ -1,3 +1,4 @@
 # firstrepo-demo
 This is my First Git Repository
-author - Rudra Narayan Senapati
+<br>
+Author - Rudra Narayan Senapati
